@@ -44,7 +44,7 @@
     "languages": ["en", "es"],
     "entities": ["Blog", "Post", "Tag"],
     "lastLiquibaseTimestamp": 1619453187000,
-    "herokuAppName": "jhipster-7-demo",
+    "herokuAppName": "yep-demo-app-2021",
     "herokuDeployType": "git",
     "herokuJavaVersion": "11"
   }
